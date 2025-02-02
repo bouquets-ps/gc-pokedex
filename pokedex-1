@@ -8,9 +8,6 @@ body {
   font-family: "Quicksand", sans-serif;
   padding: 30px;
 }
-img {
-  max-width: 500px;
-}
 div {
   border: 1px solid #68a;
   border-radius: 5px;
