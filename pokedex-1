@@ -17,7 +17,7 @@ div {
 </head>
 <body style="background-color: black; color: white">
 <center>
-<h1><table><tr><td>PS! Game Shiny Pokedex</td></tr></table></h1>
+<h1><table><tr><td>PS! Game Corner Shiny Pokedex</td></tr></table></h1>
 <h3><span style="letter-spacing:5px;"><table><tr>
 <td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/about">ABOUT</a></td>
 <td style="width: 50px"></td><td>POKEDEX</td>
