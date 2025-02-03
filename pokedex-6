@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PS! Game Corner Shiny Pokedex - Pokedex - Page 6</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
+<style>
+body {
+  font-family: "Quicksand", sans-serif;
+  padding: 30px;
+}
+div {
+  border: 1px solid #68a;
+  border-radius: 5px;
+  padding: 1px;
+}
+</style>
+</head>
+<body style="background-color: black; color: white">
+<center>
+<h1><table><tr><td>PS! Game Corner Shiny Pokedex</td></tr></table></h1>
+<h3><span style="letter-spacing:5px;"><table><tr>
+<td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/about">ABOUT</a></td>
+<td style="width: 50px"></td><td>POKEDEX</td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/faq">FAQ</a></td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/credits">CREDITS</a></td>
+</tr></table></span></h3>
+</center>
+
+<hr><br>
+<center>
+
+<h3><table><tr>
+<td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/pokedex-1">1</a></td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/pokedex-2">2</a></td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/pokedex-3">3</a></td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/pokedex-4">4</a></td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/pokedex-5">5</a></td>
+<td style="width: 50px"></td><td>6</td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/pokedex-7">7</a></td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/pokedex-8">8</a></td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/pokedex-9">9</a></td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/pokedex-10">10</a></td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/pokedex-11">11</a></td>
+</tr></table></span></h3>
+
+<br>
+
+<h3>#0501</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Oshawott</b></div>No data</div>
+
+<h3>#0502</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Dewott</b></div>No data</div>
+
+<h3>#0503</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Samurott</b></div>No data</div>
+
+<h3>#0504</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Patrat</b></div>No data</div>
+
+<h3>#0505</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Watchog</b></div>No data</div>
+
+<h3>#0506</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Lillipup</b></div>No data</div>
+
+<h3>#0507</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Herdier</b></div>No data</div>
+
+<h3>#0508</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Stoutland</b></div>No data</div>
+
+<h3>#0509</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Purrloin</b></div>No data</div>
+
+<h3>#0510</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Liepard</b></div>No data</div>
+
+<h3>#0511</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Pansage</b></div>No data</div>
+
+<h3>#0512</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Simisage</b></div>No data</div>
+
+<h3>#0513</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Pansear</b></div>No data</div>
+
+<h3>#0514</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Simisear</b></div>No data</div>
+
+<h3>#0515</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Panpour</b></div>No data</div>
+
+<h3>#0516</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Simipour</b></div>No data</div>
+
+<h3>#0517</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Munna</b></div>No data</div>
+
+<h3>#0518</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Musharna</b></div>No data</div>
+
+<h3>#0519</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Pidove</b></div>No data</div>
+
+<h3>#0520</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Tranquill</b></div>No data</div>
+
+<h3>#0521</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Unfezant</b></div>No data</div>
+
+<h3>#0522</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Blitzle</b></div>No data</div>
+
+<h3>#0523</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Zebstrika</b></div>No data</div>
+
+<h3>#0524</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Roggenrola</b></div>No data</div>
+
+<h3>#0525</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Boldore</b></div>No data</div>
+
+<h3>#0526</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Gigalith</b></div>No data</div>
+
+<h3>#0527</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Woobat</b></div>No data</div>
+
+<h3>#0528</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Swoobat</b></div>No data</div>
+
+<h3>#0529</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Drilbur</b></div>No data</div>
+
+<h3>#0530</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Excadrill</b></div>No data</div>
+
+<h3>#0531</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Audino</b></div>No data</div>
+
+<h3>#0532</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Timburr</b></div>No data</div>
+
+<h3>#0533</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Gurdurr</b></div>No data</div>
+
+<h3>#0534</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Conkeldurr</b></div>No data</div>
+
+<h3>#0535</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Tympole</b></div>No data</div>
+
+<h3>#0536</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Palpitoad</b></div>No data</div>
+
+<h3>#0537</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Seismitoad</b></div>No data</div>
+
+<h3>#0538</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Throh</b></div>No data</div>
+
+<h3>#0539</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Sawk</b></div>No data</div>
+
+<h3>#0540</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Sewaddle</b></div>No data</div>
+
+<h3>#0541</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Swadloon</b></div>No data</div>
+
+<h3>#0542</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Leavanny</b></div>No data</div>
+
+<h3>#0543</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Venipede</b></div>No data</div>
+
+<h3>#0544</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Whirlipede</b></div>No data</div>
+
+<h3>#0545</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Scolipede</b></div>No data</div>
+
+<h3>#0546</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Cottonee</b></div>No data</div>
+
+<h3>#0547</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Whimsicott</b></div>No data</div>
+
+<h3>#0548</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Petilil</b></div>No data</div>
+
+<h3>#0549</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Lilligant</b></div>No data</div>
+
+<h3>#0550</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Basculin</b></div>No data</div>
+
+<h3>#0551</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Sandile</b></div>No data</div>
+
+<h3>#0552</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Krokorok</b></div>No data</div>
+
+<h3>#0553</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Krookodile</b></div>No data</div>
+
+<h3>#0554</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Darumaka</b></div>No data</div>
+
+<h3>#0555</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Darmanitan</b></div>No data</div>
+
+<h3>#0556</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Maractus</b></div>No data</div>
+
+<h3>#0557</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Dwebble</b></div>No data</div>
+
+<h3>#0558</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Crustle</b></div>No data</div>
+
+<h3>#0559</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Scraggy</b></div>No data</div>
+
+<h3>#0560</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Scrafty</b></div>No data</div>
+
+<h3>#0561</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Sigilyph</b></div>No data</div>
+
+<h3>#0562</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Yamask</b></div>No data</div>
+
+<h3>#0563</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Cofagrigus</b></div>No data</div>
+
+<h3>#0564</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Tirtouga</b></div>No data</div>
+
+<h3>#0565</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Carracosta</b></div>No data</div>
+
+<h3>#0566</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Archen</b></div>No data</div>
+
+<h3>#0567</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Archeops</b></div>No data</div>
+
+<h3>#0568</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Trubbish</b></div>No data</div>
+
+<h3>#0569</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Garbodor</b></div>No data</div>
+
+<h3>#0570</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Zorua</b></div>No data</div>
+
+<h3>#0571</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Zoroark</b></div>No data</div>
+
+<h3>#0572</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Minccino</b></div>No data</div>
+
+<h3>#0573</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Cinccino</b></div>No data</div>
+
+<h3>#0574</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Gothita</b></div>No data</div>
+
+<h3>#0575</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Gothorita</b></div>No data</div>
+
+<h3>#0576</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Gothitelle</b></div>No data</div>
+
+<h3>#0577</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Solosis</b></div>No data</div>
+
+<h3>#0578</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Duosion</b></div>No data</div>
+
+<h3>#0579</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Reuniclus</b></div>No data</div>
+
+<h3>#0580</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Ducklett</b></div>No data</div>
+
+<h3>#0581</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Swanna</b></div>No data</div>
+
+<h3>#0582</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Vanillite</b></div>No data</div>
+
+<h3>#0583</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Vanillish</b></div>No data</div>
+
+<h3>#0584</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Vanilluxe</b></div>No data</div>
+
+<h3>#0585</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Deerling</b></div>No data</div>
+
+<h3>#0586</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Sawsbuck</b></div>No data</div>
+
+<h3>#0587</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Emolga</b></div>No data</div>
+
+<h3>#0588</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Karrablast</b></div>No data</div>
+
+<h3>#0589</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Escavalier</b></div>No data</div>
+
+<h3>#0590</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Foongus</b></div>No data</div>
+
+<h3>#0591</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Amoonguss</b></div>No data</div>
+
+<h3>#0592</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Frillish</b></div>No data</div>
+
+<h3>#0593</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Jellicent</b></div>No data</div>
+
+<h3>#0594</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Alomomola</b></div>No data</div>
+
+<h3>#0595</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Joltik</b></div>No data</div>
+
+<h3>#0596</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Galvantula</b></div>No data</div>
+
+<h3>#0597</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Ferroseed</b></div>No data</div>
+
+<h3>#0598</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Ferrothorn</b></div>No data</div>
+
+<h3>#0599</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Klink</b></div>No data</div>
+
+<h3>#0600</h3>
+<div class="infobox" style="width: 260px"><div class="infobox" style="width: 250px"><b>Klang</b></div>No data</div>
+
+</center>
+</body>
+</html>
