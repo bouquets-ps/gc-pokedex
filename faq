@@ -8,6 +8,12 @@ body {
   font-family: "Quicksand", sans-serif;
   padding: 30px;
 }
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
 </style>
 </head>
 <body style="background-color: black; color: white">
