@@ -29,8 +29,11 @@ details > summary::-webkit-details-marker {
 
 <hr><br>
 
-<details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>How can I help updating the shiny Pokedex?</summary>
+<details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>I saw a shiny Pokemon. How can I help updating the shiny Pokedex?</summary>
 <p>Fill in <a style="text-decoration:none; color: silver" href="https://forms.gle/pM7vTMbSqZVdWFQ88">the Pokemon submission form</a>. You are free to submit yours and other users' shiny Pokemon.</p></details>
+
+<details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>What Pokemon do the Pokedex accept?</summary>
+<p>The Pokedex only register Pokemon which is in its base form and have a positive dex number.</p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>When I play a shiny Pokemon card, does the shiny Pokedex get updated automatically?</summary>
 <p>No. Updates are done manually by the professor when she spots a new shiny Pokemon displayed in the room or when she reviews the submission form.</p></details>
@@ -40,7 +43,7 @@ details > summary::-webkit-details-marker {
 <br><a style="text-decoration:none; color: silver" href="https://rentry.co/project-bouquets">https://rentry.co/project-bouquets</a></p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Is the shiny Pokedex officially affiliated with the Game Corner room?</summary>
-<p>No. The gallery is purely a passion project founded by one regular user. Nevertheless, the Game Corner room owners are aware of the gallery's existence and gave permission for it to be hosted.</p></details>
+<p>No. The shiny Pokedex is purely a passion project founded by one regular user with the Game Corner room owners' permissions for it to be hosted.</p></details>
 
 
  
