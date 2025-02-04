@@ -41,11 +41,11 @@ Played by <b><strong style="color: #2884c6">bouquets</strong></b> on <a style="t
 
 <h3>Gradient</h3>
 <table>
-<tr><td><b>Type</b></td><td>Dex Color</td><td>Egg Group</td><td>Gradient</td></tr>
-<tr><td>Normal</td><td>White</td><td></td><td></td></tr>
-<tr><td>Fire</td><td></td><td></td><td></td></tr>
-<tr><td>Water</td><td>Blue</td><td>Water 2</td><td></td></tr>
-<tr><td>Electric</td><td>Yellow</td><td></td><td></td></tr>
+<tr><td style="width: 100px"><b>Type</b></td><td style="width: 100px"><b>Dex Color</b></td><td style="width: 100px"><b>Egg Group</b></td><td style="width: 200px"><b>Gradient</b></td></tr>
+<tr><td>Normal</td><td>White</td><td></td><td>#e6e6e6, #d9d9d9</td></tr>
+<tr><td>Fire</td><td></td><td></td><td>#db8b70, #b8502e</td></tr>
+<tr><td>Water</td><td>Blue</td><td>Water 2</td><td>#70a6db, #2e73b8</td></tr>
+<tr><td>Electric</td><td>Yellow</td><td></td><td>#dbdb70, #b8b72e</td></tr>
 <tr><td>Fairy</td><td></td><td>Fairy</td><td></td></tr>
 <tr><td>Grass</td><td>Green</td><td>Grass</td><td></td></tr>
 <tr><td>Ice</td><td></td><td></td><td></td></tr>
