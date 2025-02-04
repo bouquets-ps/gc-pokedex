@@ -42,12 +42,12 @@ details > summary::-webkit-details-marker {
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>What are the games where shiny Pokemon can be played?</summary>
 <p><table>
-<tr><td style="width: 200px"><b>Game</b><td>Note</td></tr>
-<tr><td>Axew's Battle Cards</td><td></td></tr>
-<tr><td>Blissey's Egg Cards</td><td>Pokemon in the Ditto, Undiscovered, Water 2, and Water 3 egg groups are unavailable</td></tr>
-<tr><td>Bulbasaur's Uno</td><td>Doduo, Greninja, Kecleon, Machamp, Slaking are unavailable</td></tr>
-<tr><td>Shuckle's Defense Cards</td><td></td></tr>
-<tr><td>Stakataka's Card Tower</td><td>Manaphy, Pachirisu, and Phione are unavailable</td></tr>
+<tr><td style="width: 200px"><b>Game</b><td><b>Available Pokemon</b></td></tr>
+<tr><td>Axew's Battle Cards</td><td>All with GIFs</td></tr>
+<tr><td>Blissey's Egg Cards</td><td>All with GIFs, excluding Chansey, Ditto, Happiny, and all Pokemon in the Undiscovered, Water 2, Water 3 egg groups</td></tr>
+<tr><td>Bulbasaur's Uno</td><td>All with GIFs, excluding Doduo, Greninja, Kecleon, Inkay, Machamp, Magnemite, Slaking, Spinda</td></tr>
+<tr><td>Shuckle's Defense Cards</td><td>All with GIFs</td></tr>
+<tr><td>Stakataka's Card Tower</td><td>All with GIFs, excluding Manaphy, Pachirisu, Phione</td></tr>
 </table>
 </p></details>
 
