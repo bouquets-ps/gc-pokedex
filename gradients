@@ -29,8 +29,6 @@ div {
 <hr><br>
 <center>
 
-δ
-
 <h3>Kanto / Johto</h3>
 
 <div class="infobox" style="width: 260px">
@@ -82,7 +80,7 @@ div {
 <h3>Axew / Shuckle</h3>
 
 <div class="infobox" style="width: 260px">
-<div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div><img src="//play.pokemonshowdown.com/sprites/ani-shiny/junpluff.gif" width="74" height="88">
+<div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div><img src="//play.pokemonshowdown.com/sprites/ani-shiny/junpluff.gif">
 <div class="infobox" style="width: 250px">
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 &nbsp;/&nbsp;
@@ -94,7 +92,7 @@ div {
 <h3>Bulbasaur / Stakataka</h3>
 
 <div class="infobox" style="width: 260px">
-<div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div><img src="//play.pokemonshowdown.com/sprites/ani-shiny/jumpluff.gif" width="44" height="47">
+<div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div><img src="//play.pokemonshowdown.com/sprites/ani-shiny/jumpluff.gif">
 <div class="infobox" style="width: 250px">
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 &nbsp;/&nbsp;
@@ -109,13 +107,17 @@ div {
 
 <div class="infobox" style="width: 260px">
 <div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div>
-<img src="//play.pokemonshowdown.com/sprites/ani-shiny/jumpluff.gif" width="80" height="100">
+<img src="//play.pokemonshowdown.com/sprites/ani-shiny/jumpluff.gif">
 <div class="infobox" style="width: 250px">
 <div style="display: inline-block ; background: linear-gradient(#ec93bf,#e05299) ; border: 1px solid #68a ; border-radius: 5px ; width: 100px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fairy</b></div>
 &nbsp;/&nbsp;<div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 100px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 </div></div>
 
 <br>Played by <b><strong style="color: #2884c6">bouquets</strong></b> on <a style="text-decoration:none; color: silver" href="https://imgur.com/WaIV4Rh">2025-02-22</a><br><br>
+
+<h3>Delta Symbol</h3>
+
+δ
 
 <h3>Types</h3>
 
