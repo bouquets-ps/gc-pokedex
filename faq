@@ -29,10 +29,10 @@ details > summary::-webkit-details-marker {
 
 <hr><br>
 
-<br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>How can I help updating the shiny Pokedex?</summary>
+<details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>How can I help updating the shiny Pokedex?</summary>
 <p>Fill in <a style="text-decoration:none; color: silver" href="https://forms.gle/pM7vTMbSqZVdWFQ88">the Pokemon submission form</a>. You are free to submit yours and other users' shiny Pokemon.</p></details>
 
-<details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>When I play a shiny Pokemon card, does the shiny Pokedex get updated automatically?</summary>
+<br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>When I play a shiny Pokemon card, does the shiny Pokedex get updated automatically?</summary>
 <p>No. Updates are done manually by the professor when she spots a new shiny Pokemon displayed in the room or when she reviews the submission form.</p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Is there a condensed version of the gallery's link?</summary>
