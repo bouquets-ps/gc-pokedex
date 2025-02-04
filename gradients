@@ -72,26 +72,26 @@ div {
 <tr><td>Fire</td><td></td><td></td><td>#db8b70, #b8502e</td></tr>
 <tr><td>Water</td><td>Blue</td><td>Water 2</td><td>#70a6db, #2e73b8</td></tr>
 <tr><td>Electric</td><td>Yellow</td><td></td><td>#dbdb70, #b8b72e</td></tr>
-<tr><td>Fairy</td><td></td><td>Fairy</td><td></td></tr>
-<tr><td>Grass</td><td>Green</td><td>Grass</td><td></td></tr>
-<tr><td>Ice</td><td></td><td></td><td></td></tr>
-<tr><td>Fighting</td><td></td><td></td><td></td></tr>
-<tr><td>Poison</td><td>Purple</td><td></td><td></td></tr>
-<tr><td>Ground</td><td></td><td>Human-Like</td><td></td></tr>
-<tr><td>Flying</td><td></td><td></td><td></td></tr>
-<tr><td>Psychic</td><td>Pink</td><td>Ditto</td><td></td></tr>
-<tr><td>Bug</td><td></td><td>Bug</td><td></td></tr>
-<tr><td>Rock</td><td>Brown</td><td></td><td></td></tr>
-<tr><td>Ghost</td><td></td><td></td><td></td></tr>
-<tr><td>Dragon</td><td></td><td>Dragon</td><td></td></tr>
-<tr><td>Steel</td><td>Gray</td><td>Amorphous</td><td></td></tr>
-<tr><td>Dark</td><td>Black</td><td>Undiscovered</td><td></td></tr>
-<tr><td></td><td>Red</td><td>Monster</td><td></td></tr>
-<tr><td></td><td></td><td>Water 1</td><td></td></tr>
-<tr><td></td><td></td><td>Water 3</td><td></td></tr>
-<tr><td></td><td></td><td>Flying</td><td></td></tr>
-<tr><td></td><td></td><td>Field</td><td></td></tr>
-<tr><td></td><td></td><td>Mineral</td><td></td></tr>
+<tr><td>Fairy</td><td></td><td>Fairy</td><td>#ec93bf,#e05299</td></tr>
+<tr><td>Grass</td><td>Green</td><td>Grass</td><td>#70db70,#2eb82e</td></tr>
+<tr><td>Ice</td><td></td><td></td><td>#93ecec,#52e0e0</td></tr>
+<tr><td>Fighting</td><td></td><td></td><td>#ac3939,#732626</td></tr>
+<tr><td>Poison</td><td>Purple</td><td></td><td>#a670db,#732eb8</td></tr>
+<tr><td>Ground</td><td></td><td>Human-Like</td><td>#e6c8b3,#d29e79</td></tr>
+<tr><td>Flying</td><td></td><td></td><td>#bfbfbf,#a6a6a6</td></tr>
+<tr><td>Psychic</td><td>Pink</td><td>Ditto</td><td>#db70db,#b72eb8</td></tr>
+<tr><td>Bug</td><td></td><td>Bug</td><td>#c1db70,#96b82e</td></tr>
+<tr><td>Rock</td><td>Brown</td><td></td><td>#c68353,#995e33</td></tr>
+<tr><td>Ghost</td><td></td><td></td><td>#7339ac,#4d2673</td></tr>
+<tr><td>Dragon</td><td></td><td>Dragon</td><td>#7070db,#2e2eb8</td></tr>
+<tr><td>Steel</td><td>Gray</td><td>Amorphous</td><td>#999999,#666666</td></tr>
+<tr><td>Dark</td><td>Black</td><td>Undiscovered</td><td>#262626,#1a1a1a</td></tr>
+<tr><td></td><td>Red</td><td>Monster</td><td>#db7070,#b82e2e</td></tr>
+<tr><td></td><td></td><td>Water 1</td><td>#93bfec,#5299e0</td></tr>
+<tr><td></td><td></td><td>Water 3</td><td>#3973ac,#264d73</td></tr>
+<tr><td></td><td></td><td>Flying</td><td>#bf93ec,#9852e0</td></tr>
+<tr><td></td><td></td><td>Field</td><td>#ecd693,#e0bd52</td></tr>
+<tr><td></td><td></td><td>Mineral</td><td>#995c33,#603920</td></tr>
 </table>
 
 </center>
