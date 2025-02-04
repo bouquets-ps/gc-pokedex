@@ -33,11 +33,14 @@ div {
 
 <div class="infobox" style="width: 260px">
 <div class="infobox" style="width: 250px"><b>Pokemon ★</b></div><img src="//play.pokemonshowdown.com/sprites/ani-shiny/snorunt.gif" width="44" height="47">
-<div class="infobox" style="width: 250px"><div style="display: inline-block ; background: linear-gradient(#93ecec , #52e0e0) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Type 1</b></div>
+<div class="infobox" style="width: 250px">
+<div style="display: inline-block ; background: linear-gradient(#93ecec , #52e0e0) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Type 1</b></div>
 
-&nbsp;/&nbsp;<div style="display: inline-block ; background: linear-gradient(#e6c8b3 , #d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Type 2</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#e6c8b3 , #d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Type 2</b></div>
 
-<br><div style="display: inline-block ; background: linear-gradient(#999999 , #666666) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Color</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#999999 , #666666) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Color</b></div>
 
 </div></div>
 
@@ -47,9 +50,11 @@ div {
 
 <div class="infobox" style="width: 260px">
 <div class="infobox" style="width: 250px"><b>Pokemon ★</b></div><img src="//play.pokemonshowdown.com/sprites/ani-shiny/cradily.gif" width="74" height="88">
-<div class="infobox" style="width: 250px"><div style="display: inline-block ; background: linear-gradient(#c68353 , #995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Type 1</b></div>
+<div class="infobox" style="width: 250px">
+<div style="display: inline-block ; background: linear-gradient(#c68353 , #995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Type 1</b></div>
 
-&nbsp;/&nbsp;<div style="display: inline-block ; background: linear-gradient(#e6c8b3 , #d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Type 2</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#e6c8b3 , #d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Type 2</b></div>
 
 </div></div>
 
@@ -64,6 +69,33 @@ div {
 &nbsp;/&nbsp;<div style="display: inline-block ; background: linear-gradient(#999999 , #666666) ; border: 1px solid #68a ; border-radius: 5px ; width: 100px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Group 2</b></div>
 
 </div></div>
+
+<h3>Types</h3>
+
+<div style="display: inline-block ; background: linear-gradient(#e6c8b3 , #d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Type 2</b></div>
+
+
+<h3>Dex Colors</h3>
+
+<div style="display: inline-block ; background: linear-gradient(#262626,#1a1a1a) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Black</b></div>
+
+<div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
+
+<div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
+
+<div style="display: inline-block ; background: linear-gradient(#999999,#666666) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Gray</b></div>
+
+<div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Green</b></div>
+
+<div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Pink</b></div>
+
+<div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Purple</b></div>
+
+<div style="display: inline-block ; background: linear-gradient(#db7070,#b82e2e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Red</b></div>
+
+<div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>White</b></div>
+
+<div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
 
 <h3>Egg Groups</h3>
 
@@ -93,17 +125,17 @@ div {
 
 <div style="display: inline-block ; background: linear-gradient(#93bfec,#5299e0) ; border: 1px solid #68a ; border-radius: 5px ; width: 100px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water 1</b></div>
 
-<div style="display: inline-block ; background: linear-gradient(#70a6db, #2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 100px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water 2</b></div>
+<div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 100px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water 2</b></div>
 
 <div style="display: inline-block ; background: linear-gradient(#3973ac,#264d73) ; border: 1px solid #68a ; border-radius: 5px ; width: 100px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water 3</b></div>
 
 <h3>Gradient</h3>
 <table>
 <tr><td style="width: 100px"><b>Type</b></td><td style="width: 100px"><b>Dex Color</b></td><td style="width: 100px"><b>Egg Group</b></td><td style="width: 200px"><b>Gradient</b></td></tr>
-<tr><td>Normal</td><td>White</td><td></td><td>#e6e6e6, #d9d9d9</td></tr>
-<tr><td>Fire</td><td></td><td></td><td>#db8b70, #b8502e</td></tr>
-<tr><td>Water</td><td>Blue</td><td>Water 2</td><td>#70a6db, #2e73b8</td></tr>
-<tr><td>Electric</td><td>Yellow</td><td></td><td>#dbdb70, #b8b72e</td></tr>
+<tr><td>Normal</td><td>White</td><td></td><td>#e6e6e6,#d9d9d9</td></tr>
+<tr><td>Fire</td><td></td><td></td><td>#db8b70,#b8502e</td></tr>
+<tr><td>Water</td><td>Blue</td><td>Water 2</td><td>#70a6db,#2e73b8</td></tr>
+<tr><td>Electric</td><td>Yellow</td><td></td><td>#dbdb70,#b8b72e</td></tr>
 <tr><td>Fairy</td><td></td><td>Fairy</td><td>#ec93bf,#e05299</td></tr>
 <tr><td>Grass</td><td>Green</td><td>Grass</td><td>#70db70,#2eb82e</td></tr>
 <tr><td>Ice</td><td></td><td></td><td>#93ecec,#52e0e0</td></tr>
