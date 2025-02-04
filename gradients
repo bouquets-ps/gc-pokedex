@@ -8,6 +8,11 @@ body {
   font-family: "Quicksand", sans-serif;
   padding: 30px;
 }
+div {
+  border: 1px solid #68a;
+  border-radius: 5px;
+  padding: 1px;
+}
 </style>
 </head>
 <body style="background-color: black; color: white">
