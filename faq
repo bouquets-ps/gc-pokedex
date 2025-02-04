@@ -41,18 +41,22 @@ details > summary::-webkit-details-marker {
 <p>The Pokedex only register Pokemon which is in its base form and have a positive dex number.</p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>What are the games where shiny Pokemon can be played?</summary>
-<p><li>Axew's Battle Cards
-<li>Blissey's Egg Cards
-<li>Bulbasaur's Uno
-<li>Shuckle's Defense Cards
-<li>Stakataka's Card Tower</p></details>
+<p><table>
+<tr><td style="width: 200px"><b>Game</b><td>Note</td></tr>
+<tr><td>Axew's Battle Cards</td><td></td></tr>
+<tr><td>Blissey's Egg Cards</td><td>Pokemon in the Ditto, Undiscovered, Water 2, and Water 3 egg groups are unavailable</td></tr>
+<tr><td>Bulbasaur's Uno</td><td>Doduo, Greninja, Kecleon, Machamp, Slaking are unavailable</td></tr>
+<tr><td>Shuckle's Defense Cards</td><td></td></tr>
+<tr><td>Stakataka's Card Tower</td><td>Manaphy, Pachirisu, and Phione are unavailable</td></tr>
+</table>
+</p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Is there a condensed version of the Pokedex's link?</summary>
 <p><a style="text-decoration:none; color: silver" href="https://tinyurl.com/gc-shiny-pokedex">https://tinyurl.com/gc-shiny-pokedex</a>
 <br><a style="text-decoration:none; color: silver" href="https://rentry.co/project-bouquets">https://rentry.co/project-bouquets</a></p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Is the Pokedex officially affiliated with the Game Corner room?</summary>
-<p>No. The Pokedex is purely a passion project founded by one regular user with the Game Corner room owners' permissions for it to be hosted.</p></details>
+<p>No. The Pokedex is purely a passion project founded by one regular user and hosted with the Game Corner room owners' permission.</p></details>
 
 
  
