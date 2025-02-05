@@ -35,13 +35,13 @@ details > summary::-webkit-details-marker {
 <li>reviews user submissions.</p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>How can I help updating the Pokedex?</summary>
-<p>Fill in <a style="text-decoration:none; color: silver" href="https://forms.gle/pM7vTMbSqZVdWFQ88">the Pokemon submission form</a>. You are free to submit yours and other users' shiny Pokemon.</p></details>
+<p>Fill in <a style="text-decoration:none; color: silver" href="https://forms.gle/KLdyS6DxU5jXL7wq9">the Pokemon submission form</a>. You are free to submit yours and other users' shiny Pokemon.</p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Does the Pokedex register all Pokemon, including forms?</summary>
-<p>The Pokedex register all Pokemon with a positive dex number, excluding forms.</p></details>
+<p>The Pokedex registers all Pokemon with a positive dex number, excluding forms.</p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>What are the games where shiny Pokemon cards can be played?</summary>
-<p><table>
+<p><table style="border-bottom: 1px">
 <tr><td style="width: 200px"><b>Game</b><td><b>Available Pokemon</b></td></tr>
 <tr><td>Axew's Battle Cards</td><td>All with GIFs</td></tr>
 <tr><td>Blissey's Egg Cards</td><td>All with GIFs, excluding Chansey, Ditto, Happiny, and all Pokemon in the Undiscovered, Water 2, Water 3 egg groups</td></tr>
