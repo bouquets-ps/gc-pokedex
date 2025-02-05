@@ -41,7 +41,7 @@ details > summary::-webkit-details-marker {
 <p>The Pokedex registers all Pokemon with a positive dex number, excluding forms.</p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>What are the games where shiny Pokemon cards can be played?</summary>
-<p><table style="border-bottom: 1px">
+<p><table style="border: 1px">
 <tr><td style="width: 200px"><b>Game</b><td><b>Available Pokemon</b></td></tr>
 <tr><td>Axew's Battle Cards</td><td>All with GIFs</td></tr>
 <tr><td>Blissey's Egg Cards</td><td>All with GIFs, excluding Chansey, Ditto, Happiny, and all Pokemon in the Undiscovered, Water 2, Water 3 egg groups</td></tr>
