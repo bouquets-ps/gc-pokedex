@@ -20,10 +20,10 @@ details > summary::-webkit-details-marker {
 <center>
 <h1><table><tr><td>PS! Game Corner Shiny Pokedex</td></tr></table></h1>
 <h3><span style="letter-spacing:5px;"><table><tr>
-<td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/about">ABOUT</a></td>
-<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/pokedex-1">POKEDEX</a></td>
+<td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-pokedex/blob/main/about">ABOUT</a></td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-pokedex/blob/main/pokedex-1">POKEDEX</a></td>
 <td style="width: 50px"></td><td>FAQ</td>
-<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-shiny-pokedex/blob/main/credits">CREDITS</a></td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-pokedex/blob/main/credits">CREDITS</a></td>
 </tr></table></span></h3>
 </center>
 
@@ -41,14 +41,15 @@ details > summary::-webkit-details-marker {
 <p>The Pokedex registers all Pokemon with a positive dex number, excluding forms.</p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>What are the games where shiny Pokemon cards can be played?</summary>
-<p><table border="1">
-<tr><td style="width: 200px"><b>Game</b><td><b>Available Pokemon</b></td></tr>
-<tr><td>Axew's Battle Cards</td><td>All with GIFs</td></tr>
-<tr><td>Blissey's Egg Cards</td><td>All with GIFs, excluding Chansey, Ditto, Happiny, and all Pokemon in the Undiscovered, Water 2, Water 3 egg groups</td></tr>
-<tr><td>Bulbasaur's Uno</td><td>All with GIFs, excluding Doduo, Greninja, Kecleon, Inkay, Machamp, Magnemite, Slaking, Spinda</td></tr>
-<tr><td>Shuckle's Defense Cards</td><td>All with GIFs</td></tr>
-<tr><td>Stakataka's Card Tower</td><td>All with GIFs, excluding Manaphy, Pachirisu, Phione</td></tr>
+<p><table border="2" cellpadding="5">
+<tr><td style="width: 250px"><b>Game</b><td><b>Unavailable Pokemon</b></td></tr>
+<tr><td>Axew's Battle Cards</td><td rowspan="2"></td></tr>
+<tr><td>Shuckle's Defense Cards</td></tr>
+<tr><td>Stakataka's Card Tower</td><td>Manaphy, Pachirisu, Phione</td></tr>
+<tr><td>Bulbasaur's Uno</td><td>Doduo, Greninja, Kecleon, Inkay, Machamp, Magnemite, Slaking, Spinda</td></tr>
+<tr><td>Blissey's Egg Cards</td><td>Chansey, Ditto, Happiny, Undiscovered Pokemon, Water 2 Pokemon, Water 3 Pokemon</td></tr>
 </table>
+<br>In addition, Pokemon with no GIFs on PS! are unavailable in all games.
 </p></details>
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Is there a condensed version of the Pokedex's link?</summary>
@@ -57,11 +58,6 @@ details > summary::-webkit-details-marker {
 
 <br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Is the Pokedex officially affiliated with the Game Corner room?</summary>
 <p>No. The Pokedex is purely a passion project founded by one regular user and hosted with the Game Corner room owners' permission.</p></details>
-
-
- 
-
-
 
 </center>
 </body>
