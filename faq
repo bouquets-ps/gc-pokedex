@@ -29,19 +29,19 @@ details > summary::-webkit-details-marker {
 
 <hr><br>
 
-<details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>When I play a shiny Pokemon card, does the Pokedex get updated automatically?</summary>
-<p>No. Updates are done manually by the professor when she:
+<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>When I play a shiny Pokemon card, does the Pokedex get updated automatically?</b>
+<br><br>No. Updates are done manually by the professor when she:
 <li>spots a new shiny Pokemon displayed in the room.
-<li>reviews user submissions.</p></details>
+<li>reviews user submissions.
 
-<br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>How can I help updating the Pokedex?</summary>
-<p>Fill in <a style="text-decoration:none; color: silver" href="https://forms.gle/KLdyS6DxU5jXL7wq9">the Pokemon submission form</a>. You are free to submit yours and other users' shiny Pokemon.</p></details>
+<br><br><b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>How can I help updating the Pokedex?</b>
+<br><br>Fill in <a style="text-decoration:none; color: silver" href="https://forms.gle/KLdyS6DxU5jXL7wq9">the Pokemon submission form</a>. You are free to submit yours and other users' shiny Pokemon.
 
-<br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Does the Pokedex register all Pokemon, including forms?</summary>
-<p>The Pokedex registers all Pokemon with a positive dex number, excluding forms.</p></details>
+<br><br><b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Does the Pokedex register all Pokemon, including forms?</b>
+<br><br>The Pokedex registers all Pokemon with a positive dex number, excluding forms.
 
-<br><details><summary><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>What are the games where shiny Pokemon cards can be played?</summary>
-<p><table border="2" cellpadding="5">
+<br><br><b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>What are the games where shiny Pokemon cards can be played?</b>
+<br><br><table border="2" cellpadding="5">
 <tr><td style="width: 250px"><b>Game</b><td><b>Unavailable Pokemon</b></td></tr>
 <tr><td>Axew's Battle Cards</td><td rowspan="2"></td></tr>
 <tr><td>Shuckle's Defense Cards</td></tr>
@@ -49,8 +49,7 @@ details > summary::-webkit-details-marker {
 <tr><td>Bulbasaur's Uno</td><td>Doduo, Greninja, Kecleon, Inkay, Machamp, Magnemite, Slaking, Spinda</td></tr>
 <tr><td>Blissey's Egg Cards</td><td>Chansey, Ditto, Happiny, Undiscovered Pokemon, Water 2 Pokemon, Water 3 Pokemon</td></tr>
 </table>
-<br>In addition, Pokemon with no GIFs on PS! are unavailable in all games.
-</p></details>
+<br><br>In addition, Pokemon with no GIFs on PS! are unavailable in all games.
 
 </center>
 </body>
