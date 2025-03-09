@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html data-theme="light">
+<head>
+<title>Test</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
+<style>
+#myInput {
+  width: 25%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 12px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
+}
+
+#myUL {
+  /* Remove default list styling */
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myUL li a {
+  border: 1px solid #555; /* Add a border to all links */
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #222222; /* Black background color */
+  padding: 12px; /* Add some padding */
+  text-decoration: none; /* Remove default text underline */
+  font-size: 18px; /* Increase the font-size */
+  color: white; /* Add a white text color */
+  display: block; /* Make it into a block element to fill the whole list */
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #333; /* Add a hover effect to all links, except for headers */
+}
+td {
+  vertical-align: middle;
+}
+body {
+  font-family: "Quicksand", sans-serif;
+  padding: 30px;
+}
+</style>
+</head>
+<body style="background-color: black; color: white">
+<center>
+<h1><table><tr><td>Test</td></tr></table></h1>
+</center>
+
+<hr><br>
+<center>
+
+<h3>Registered: <font color="77dd77">2</font>/1025</h3>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search">
+
+<h3>Click on registered entries to view screenshots</h3>
+
+<ul id="myUL">
+
+<li><a href="#"><table style="text-align: center"><tr>
+<td width="100px">#0001</td>
+<td width="200px"><b><strong style="color: #2884c6">bouquets</strong></b>'s Bulbasaur</td>
+<td width="300px"><img src="//play.pokemonshowdown.com/sprites/ani-shiny/bulbasaur.gif"></td>
+</td>
+<td width="200px">played on 2025-01-01</td>
+</tr></table></a></li>
+
+<li><a href="#"><table border="2" style="text-align: center"><tr>
+<td width="100px">#0610</td>
+<td width="200px"><b><strong style="color: #c8101c">corsages</strong></b>'s Axew</td>
+<td width="300px"><img src="//play.pokemonshowdown.com/sprites/ani-shiny/axew.gif"></td>
+</td>
+<td width="200px">played on 2024-12-31</td>
+</tr></table></a></li>
+
+</ul>
+
+<script>
+function myFunction() {
+  // Declare variables
+  var input, filter, ul, li, a, i, txtValue;
+  input = document.getElementById('myInput');
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("myUL");
+  li = ul.getElementsByTagName('li');
+
+  // Loop through all list items, and hide those who don't match the search query
+  for (i = 0; i < li.length; i++) {
+    a = li[i].getElementsByTagName("a")[0];
+    txtValue = a.textContent || a.innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
+</script>
+
