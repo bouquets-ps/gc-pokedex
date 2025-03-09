@@ -55,8 +55,8 @@ body {
 <hr><br>
 <center>
 
-<h3>Registered: <font color="77dd77">2</font>/1025<br>Click on registered entries to view screenshots</h3>
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search">
+<h3>Registered: <font color="77dd77">2</font>/1025<br><br><i>Click on registered entries to view screenshots</i></h3>
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search"><br><br>
 <ul id="myUL">
 
 <li><a href="#"><table style="text-align: center"><tr>
