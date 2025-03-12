@@ -34,7 +34,7 @@ details > summary::-webkit-details-marker {
 <li>spots a new shiny Pokemon displayed in the room.
 
 <br><br><b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Does the Pokedex register all Pokemon, including forms and CAP?</b>
-<br><br>Yes.
+<br><br>All Pokemon with a positive dex number can be registered, which include forms but exclude CAP.
 
 <br><br><b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>What are the games where shiny Pokemon cards can be played?</b>
 <br><br><table border="2" cellpadding="5">
