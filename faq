@@ -202,11 +202,11 @@ button {
 <tr><td style="width: 250px"><b>Game</b><td><b>Unavailable Pokemon</b></td></tr>
 <tr><td>Axew's Battle Cards</td><td rowspan="2"></td></tr>
 <tr><td>Shuckle's Defense Cards</td></tr>
-<tr><td>Stakataka's Card Tower</td><td>Manaphy, Pachirisu, Phione</td></tr>
-<tr><td>Bulbasaur's Uno</td><td>Doduo, Greninja, Kecleon, Inkay, Machamp, Magnemite, Slaking, Spinda</td></tr>
-<tr><td>Blissey's Egg Cards</td><td>Chansey, Ditto, Happiny, Undiscovered Pokemon, Water 2 Pokemon, Water 3 Pokemon</td></tr>
+<tr><td>Stakataka's Card Tower</td><td>Manaphy, Pachirisu, Phione, CAP Pokemon</td></tr>
+<tr><td>Bulbasaur's Uno</td><td>Doduo, Greninja, Kecleon, Inkay, Machamp, Magnemite, Slaking, Spinda, CAP Pokemon</td></tr>
+<tr><td>Blissey's Egg Cards</td><td>Chansey, Ditto, Happiny, Undiscovered Pokemon, Water 2 Pokemon, Water 3 Pokemon, CAP Pokemon</td></tr>
 </table>
-<br>In addition, Pokemon with no GIFs on PS! are unavailable in all games.
+<br>Pokemon with no GIFs on PS! are unavailable in all games.
 </td></tr></table><br><br></span>
 
 <span class="infobox"><table><tr><td>
