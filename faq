@@ -186,14 +186,7 @@ button {
 
 <span class="infobox"><table><tr><td>
 <b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>How often does the Pokedex get updated?</b>
-<br><br>The Pokedex usually gets updated when its owner:
-<li>reviews user submissions.
-<li>spots a new shiny Pokemon card displayed in the room.
-</td></tr></table><br><br></span>
-
-<span class="infobox"><table><tr><td>
-<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>What is the main goal of Shiny Pokedex?</b>
-<br><br>Collect every shiny Pokemon card as a community.
+<br><br>The Pokedex usually gets updated when its owner reviews user submissions.
 </td></tr></table><br><br></span>
 
 <span class="infobox"><table><tr><td>
@@ -211,7 +204,7 @@ button {
 
 <span class="infobox"><table><tr><td>
 <b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Can I hunt for shiny Pokemon cards in Game Workshop?</b>
-<br><br>No. Every screenshot submission must contain Lady Monita's message about the Luck of the Draw achievement, which is not enabled in Game Workshop.
+<br><br>No. Every screenshot submission must contain Lady Monita's message about the Luck of the Draw achievement, which is disabled in Game Workshop.
 </td></tr></table><br><br></span>
 
 </div>
