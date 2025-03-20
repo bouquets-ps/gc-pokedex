@@ -50,7 +50,7 @@ document.getElementById("searchBar").addEventListener("input", function() {
     let filter = this.value.toLowerCase();
     let cards = document.querySelectorAll("#container .infobox");
     cards.forEach(card => {
-        card.style.display = card.textContent.toLowerCase().includes(filter) ? "inline-block" : "none";
+        card.style.display = card.querySelector(".searchValue").textContent.toLowerCase().includes(filter) ? "inline-block" : "none";
     });
 });
 
@@ -185,12 +185,12 @@ button {
 <div id = "container">
 
 <span class="infobox"><table><tr><td>
-<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>How often does the Pokedex get updated?</b>
+<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">How often does the Pokedex get updated?</strong></b>
 <br><br>The Pokedex usually gets updated when its owner reviews user submissions.
 </td></tr></table><br><br></span>
 
 <span class="infobox"><table><tr><td>
-<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>What are the games where shiny Pokemon cards can be played?</b>
+<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">What are the games where shiny Pokemon cards can be played?</strong></b>
 <br><br><table border="2" cellpadding="5">
 <tr><td style="width: 250px"><b>Game</b><td><b>Unavailable Pokemon</b></td></tr>
 <tr><td>Axew's Battle Cards</td><td rowspan="2"></td></tr>
@@ -203,7 +203,7 @@ button {
 </td></tr></table><br><br></span>
 
 <span class="infobox"><table><tr><td>
-<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span>Can I hunt for shiny Pokemon cards in Game Workshop?</b>
+<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">Can I hunt for shiny Pokemon cards in Game Workshop?</strong></b>
 <br><br>No. Every screenshot submission must contain Lady Monita's message about the Luck of the Draw achievement, which is disabled in Game Workshop.
 </td></tr></table><br><br></span>
 
