@@ -219,7 +219,9 @@ button {
 </div>
 <br><br>
 
-<h3>Unique Pokemon Registered: <font color="77dd77"><span id="counter"></span></font></h3><br>
+<h3>Unique Pokemon Registered</h3>
+<h3><font color="77dd77"><span id="counter"></span></font>/1025+</h3>
+<br>
 
 <div id = "container">
 
