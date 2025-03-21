@@ -28,89 +28,122 @@ div {
 
 <h3>Kanto / Johto</h3>
 
-<div class="infobox" style="width: 260px">
-<div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div><img src="//play.pokemonshowdown.com/sprites/gen2-shiny/jumpluff.png">
-<div class="infobox" style="width: 250px">
-<div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
+<span class="infobox" style="width: 100%"><div style="width: 510px" id="wrap"><div style="display: inline-block; width: 123px" id="wrap">
+<b>#0666</b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<div class="searchValue"><b><strong style="color: #c8101c">corsages</strong></b><b class="counterCheck"">'s Ledian δ ★</b></div></div>
+<img src="//play.pokemonshowdown.com/sprites/gen2-shiny/ledian.png">
+<div style="width: 500px" id="wrap">
+<div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
-<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
-</div></div>
-
-<br>played by <b><strong style="color: #2884c6">bouquets</strong></b> on <a style="text-decoration:none; color: silver" href="https://imgur.com/EwgIvFv">2025-02-22</a><br><br>
+<div style="display: inline-block ; background: linear-gradient(#ec93bf,#e05299) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fairy</b></div>
+</div><div style="display: inline-block; width: 123px" id="wrap">
+<b><a style="text-decoration:none; color: silver" href="https://rentry.co/project-bouquets">Screenshot</a></b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<b>played on 2025-02-02</b>
+</div></div><br><br></span>
 
 <h3>Hoenn</h3>
 
-<div class="infobox" style="width: 260px">
-<div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div><img src="//play.pokemonshowdown.com/sprites/gen3-shiny/jumpluff.png">
-<div class="infobox" style="width: 250px">
-<div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
+<span class="infobox" style="width: 100%"><div style="width: 510px" id="wrap"><div style="display: inline-block; width: 123px" id="wrap">
+<b>#0666</b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<div class="searchValue"><b><strong style="color: #c8101c">corsages</strong></b><b class="counterCheck"">'s Beautifly δ ★</b></div></div>
+<img src="//play.pokemonshowdown.com/sprites/gen3-shiny/beautifly.png">
+<div style="width: 500px" id="wrap">
+<div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
-<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
-</div></div>
-
-<br>played by <b><strong style="color: #2884c6">bouquets</strong></b> on <a style="text-decoration:none; color: silver" href="https://imgur.com/EwgIvFv">2025-02-22</a><br><br>
+<div style="display: inline-block ; background: linear-gradient(#ec93bf,#e05299) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fairy</b></div>
+</div><div style="display: inline-block; width: 123px" id="wrap">
+<b><a style="text-decoration:none; color: silver" href="https://rentry.co/project-bouquets">Screenshot</a></b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<b>played on 2025-02-02</b>
+</div></div><br><br></span>
 
 <h3>Sinnoh</h3>
 
-<div class="infobox" style="width: 260px">
-<div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div><img src="//play.pokemonshowdown.com/sprites/gen4-shiny/jumpluff.png">
-<div class="infobox" style="width: 250px">
-<div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
+<span class="infobox" style="width: 100%"><div style="width: 510px" id="wrap"><div style="display: inline-block; width: 123px" id="wrap">
+<b>#0666</b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<div class="searchValue"><b><strong style="color: #c8101c">corsages</strong></b><b class="counterCheck"">'s Combee δ ★</b></div></div>
+<img src="//play.pokemonshowdown.com/sprites/gen4-shiny/combee.gif">
+<div style="width: 500px" id="wrap">
+<div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
-<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
-</div></div>
-
-<br>played by <b><strong style="color: #2884c6">bouquets</strong></b> on <a style="text-decoration:none; color: silver" href="https://imgur.com/EwgIvFv">2025-02-22</a><br><br>
+<div style="display: inline-block ; background: linear-gradient(#ec93bf,#e05299) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fairy</b></div>
+</div><div style="display: inline-block; width: 123px" id="wrap">
+<b><a style="text-decoration:none; color: silver" href="https://rentry.co/project-bouquets">Screenshot</a></b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<b>played on 2025-02-02</b>
+</div></div><br><br></span>
 
 <h3>Unova</h3>
 
-<div class="infobox" style="width: 260px">
-<div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div><img src="//play.pokemonshowdown.com/sprites/gen5ani-shiny/jumpluff.gif">
-<div class="infobox" style="width: 250px">
-<div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
+<span class="infobox" style="width: 100%"><div style="width: 510px" id="wrap"><div style="display: inline-block; width: 123px" id="wrap">
+<b>#0666</b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<div class="searchValue"><b><strong style="color: #c8101c">corsages</strong></b><b class="counterCheck"">'s Sewaddle δ ★</b></div></div>
+<img src="//play.pokemonshowdown.com/sprites/gen5-shiny/sewaddle.gif">
+<div style="width: 500px" id="wrap">
+<div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
-<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
-</div></div>
-
-<br>played by <b><strong style="color: #2884c6">bouquets</strong></b> on <a style="text-decoration:none; color: silver" href="https://imgur.com/EwgIvFv">2025-02-22</a><br><br>
+<div style="display: inline-block ; background: linear-gradient(#ec93bf,#e05299) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fairy</b></div>
+</div><div style="display: inline-block; width: 123px" id="wrap">
+<b><a style="text-decoration:none; color: silver" href="https://rentry.co/project-bouquets">Screenshot</a></b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<b>played on 2025-02-02</b>
+</div></div><br><br></span>
 
 <h3>Axew / Shuckle</h3>
 
-<div class="infobox" style="width: 260px">
-<div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div><img src="//play.pokemonshowdown.com/sprites/ani-shiny/jumpluff.gif">
-<div class="infobox" style="width: 250px">
-<div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
+<span class="infobox" style="width: 100%"><div style="width: 510px" id="wrap"><div style="display: inline-block; width: 123px" id="wrap">
+<b>#0666</b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<div class="searchValue"><b><strong style="color: #c8101c">corsages</strong></b><b class="counterCheck"">'s Vivillon-Pokeball δ ★</b></div></div>
+<img src="//play.pokemonshowdown.com/sprites/ani-shiny/vivillon-pokeball.gif">
+<div style="width: 500px" id="wrap">
+<div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
-<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
-</div></div>
-
-<br>played by <b><strong style="color: #2884c6">bouquets</strong></b> on <a style="text-decoration:none; color: silver" href="https://imgur.com/EwgIvFv">2025-02-22</a><br><br>
+<div style="display: inline-block ; background: linear-gradient(#ec93bf,#e05299) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fairy</b></div>
+</div><div style="display: inline-block; width: 123px" id="wrap">
+<b><a style="text-decoration:none; color: silver" href="https://rentry.co/project-bouquets">Screenshot</a></b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<b>played on 2025-02-02</b>
+</div></div><br><br></span>
 
 <h3>Bulbasaur / Stakataka</h3>
 
-<div class="infobox" style="width: 260px">
-<div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div><img src="//play.pokemonshowdown.com/sprites/ani-shiny/jumpluff.gif">
-<div class="infobox" style="width: 250px">
-<div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
+<span class="infobox" style="width: 100%"><div style="width: 510px" id="wrap"><div style="display: inline-block; width: 123px" id="wrap">
+<b>#0666</b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<div class="searchValue"><b><strong style="color: #2884c6">bouquets</strong></b><b class="counterCheck"">'s Vivillon-Marine ★</b></div></div>
+<img src="//play.pokemonshowdown.com/sprites/ani-shiny/vivillon-marine.gif">
+<div style="width: 500px" id="wrap">
+<div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
-</div></div>
-
-<br>played by <b><strong style="color: #2884c6">bouquets</strong></b> on <a style="text-decoration:none; color: silver" href="https://imgur.com/EwgIvFv">2025-02-22</a><br><br>
+</div><div style="display: inline-block; width: 123px" id="wrap">
+<b><a style="text-decoration:none; color: silver" href="https://rentry.co/project-bouquets">Screenshot</a></b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<b>played on 2025-01-01</b>
+</div></div><br><br></span>
 
 <h3>Blissey</h3>
 
-<div class="infobox" style="width: 260px">
-<div class="infobox" style="width: 250px"><b>Jumpluff ★</b></div>
-<img src="//play.pokemonshowdown.com/sprites/ani-shiny/jumpluff.gif">
-<div class="infobox" style="width: 250px">
-<div style="display: inline-block ; background: linear-gradient(#ec93bf,#e05299) ; border: 1px solid #68a ; border-radius: 5px ; width: 100px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fairy</b></div>
-&nbsp;/&nbsp;<div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 100px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
-</div></div>
-
-<br>played by <b><strong style="color: #2884c6">bouquets</strong></b> on <a style="text-decoration:none; color: silver" href="https://imgur.com/EwgIvFv">2025-02-22</a><br><br>
+<span class="infobox" style="width: 100%"><div style="width: 510px" id="wrap"><div style="display: inline-block; width: 123px" id="wrap">
+<b>#0666</b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<div class="searchValue"><b><strong style="color: #a99515">florally</strong></b><b class="counterCheck"">'s Vivillon-Icy Snow ★</b></div></div>
+<img src="//play.pokemonshowdown.com/sprites/ani-shiny/vivillon-icysnow.gif">
+<div style="width: 500px" id="wrap">
+<div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 100px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
+</div><div style="display: inline-block; width: 123px" id="wrap">
+<b><a style="text-decoration:none; color: silver" href="https://rentry.co/project-bouquets">Screenshot</a></b>
+</div><div style="display: inline-block; width: 373px" id="wrap">
+<b>played on 2025-03-03</b>
+</div></div><br><br></span>
 
 <h3>Delta Symbol</h3>
 
