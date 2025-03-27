@@ -192,7 +192,7 @@ button {
 <span class="infobox"><table><tr><td>
 <b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">What are the games where shiny Pokemon cards can be played?</strong></b>
 <br><br><table border="2" cellpadding="5">
-<tr><td style="width: 250px"><b>Game</b><td><b>Unavailable Pokemon</b></td></tr>
+<tr><td style="width: 250px"><b>Game</b><td><b>Unavailable Pokemon (in all variants)</b></td></tr>
 <tr><td>Axew's Battle Cards</td><td rowspan="2"></td></tr>
 <tr><td>Shuckle's Defense Cards</td></tr>
 <tr><td>Stakataka's Card Tower</td><td>Manaphy, Pachirisu, Phione, CAP Pokemon</td></tr>
@@ -204,7 +204,7 @@ button {
 
 <span class="infobox"><table><tr><td>
 <b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">Can I hunt for shiny Pokemon cards in Game Workshop?</strong></b>
-<br><br>No. Every screenshot submission must contain Lady Monita's message about the Luck of the Draw achievement, which is disabled in Game Workshop.
+<br><br>No.
 </td></tr></table><br><br></span>
 
 </div>
