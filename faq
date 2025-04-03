@@ -56,6 +56,9 @@ document.getElementById("searchBar").addEventListener("input", function() {
 
 </script>
 <style>
+td {
+  vertical-align: middle;
+}
 html {
   -moz-text-size-adjust: none;
   -webkit-text-size-adjust: none;
