@@ -11,7 +11,7 @@ body {
 #wrap {
   border: 1px solid #68a;
   border-radius: 5px;
-  padding: 1px;
+  padding: 3px;
 }
 </style>
 </head>
