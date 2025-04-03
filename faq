@@ -192,7 +192,7 @@ button {
 <span class="infobox"><table><tr><td>
 <b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">What are the games where shiny Pokemon cards can be played?</strong></b>
 <br><br><table border="2" cellpadding="5">
-<tr><td rowspan="2" style="text-align: center; width: 250px"><b>Game</b><td colspan="2" style="text-align: center"><b>Unavailable Pokemon (in all variants)</b></td></tr>
+<tr><td rowspan="2" style="text-align: center; width: 250px"><b>Game</b><td colspan="2" style="text-align: center"><b>Unavailable Pokemon (in all variants, not considering forms)</b></td></tr>
 <tr><td style="text-align: center"><b>Action Cards</b></td><td style="text-align: center"><b>Miscellaneous</b></td></tr>
 <tr><td><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -400px -1500px"></span>Axew's Battle Cards</td><td colspan="2" rowspan="2"></td></tr>
 <tr><td><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -510px"></span>Shuckle's Defense Cards</td></tr>
