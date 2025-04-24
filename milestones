@@ -181,10 +181,55 @@ button {
 </div>
 <br><br>
 
-</center>
+<span style="width: 100%"><div id="lb" style="width: 550px"><div style="display: inline-block; width: 350px">
+    <h3>Unique Pokemon Registered</h3></div>
+    <div style="display: inline-block; width: 150px"><h3>Date</h3></div></div><br><br></span>
 
 <div id = "container">
 
+<span class="infobox" style="width: 100%"><div style="width: 750px"><div style="display: inline-block; width: 250px"><b>
+    <strong class="searchValue" style="color: #77dd77">1</strong></b></div>
+    <div style="display: inline-block; width: 150px">2025-04-05</div></div><br><br></span>
+
+<span class="infobox" style="width: 100%"><div style="width: 750px"><div style="display: inline-block; width: 250px"><b>
+    <strong class="searchValue" style="color: #77dd77">100</strong></b></div>
+    <div style="display: inline-block; width: 150px"></div></div><br><br></span>
+
+<span class="infobox" style="width: 100%"><div style="width: 750px"><div style="display: inline-block; width: 250px"><b>
+    <strong class="searchValue" style="color: #77dd77">200</strong></b></div>
+    <div style="display: inline-block; width: 150px"></div></div><br><br></span>
+
+<span class="infobox" style="width: 100%"><div style="width: 750px"><div style="display: inline-block; width: 250px"><b>
+    <strong class="searchValue" style="color: #77dd77">300</strong></b></div>
+    <div style="display: inline-block; width: 150px"></div></div><br><br></span>
+
+<span class="infobox" style="width: 100%"><div style="width: 750px"><div style="display: inline-block; width: 250px"><b>
+    <strong class="searchValue" style="color: #77dd77">400</strong></b></div>
+    <div style="display: inline-block; width: 150px"></div></div><br><br></span>
+
+<span class="infobox" style="width: 100%"><div style="width: 750px"><div style="display: inline-block; width: 250px"><b>
+    <strong class="searchValue" style="color: #77dd77">500</strong></b></div>
+    <div style="display: inline-block; width: 150px"></div></div><br><br></span>
+
+<span class="infobox" style="width: 100%"><div style="width: 750px"><div style="display: inline-block; width: 250px"><b>
+    <strong class="searchValue" style="color: #77dd77">600</strong></b></div>
+    <div style="display: inline-block; width: 150px"></div></div><br><br></span>
+
+<span class="infobox" style="width: 100%"><div style="width: 750px"><div style="display: inline-block; width: 250px"><b>
+    <strong class="searchValue" style="color: #77dd77">700</strong></b></div>
+    <div style="display: inline-block; width: 150px"></div></div><br><br></span>
+
+<span class="infobox" style="width: 100%"><div style="width: 750px"><div style="display: inline-block; width: 250px"><b>
+    <strong class="searchValue" style="color: #77dd77">800</strong></b></div>
+    <div style="display: inline-block; width: 150px"></div></div><br><br></span>
+
+<span class="infobox" style="width: 100%"><div style="width: 750px"><div style="display: inline-block; width: 250px"><b>
+    <strong class="searchValue" style="color: #77dd77">900</strong></b></div>
+    <div style="display: inline-block; width: 150px"></div></div><br><br></span>
+
+<span class="infobox" style="width: 100%"><div style="width: 750px"><div style="display: inline-block; width: 250px"><b>
+    <strong class="searchValue" style="color: #77dd77">1000</strong></b></div>
+    <div style="display: inline-block; width: 150px"></div></div><br><br></span>
 
 
 </div>
