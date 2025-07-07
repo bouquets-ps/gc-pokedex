@@ -193,8 +193,12 @@ button {
 <div id = "container">
 
 <span class="infobox" style="width: 100%"><div style="width: 520px"><div style="display: inline-block; width: 320px"><b>
-    <strong class="searchValue" style="color: #77dd77">200</strong></b></div>
+    <strong class="searchValue" style="color: #77dd77">225</strong></b></div>
     <div style="display: inline-block; width: 150px"></div></div><br><br></span>
+
+<span class="infobox" style="width: 100%"><div style="width: 520px"><div style="display: inline-block; width: 320px"><b>
+    <strong class="searchValue" style="color: #77dd77">200</strong></b></div>
+    <div style="display: inline-block; width: 150px">2025-07-07</div></div><br><br></span>
 
 <span class="infobox" style="width: 100%"><div style="width: 520px"><div style="display: inline-block; width: 320px"><b>
     <strong class="searchValue" style="color: #77dd77">175</strong></b></div>
