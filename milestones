@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html data-theme="dark">
 <head>
-<title>PS! Game Corner Shiny Pokedex - Milestones</title>
+<title>star cave | shiny pokedex | milestones</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
+<link rel="icon" href="https://www.serebii.net/itemdex/sprites/starsweet.png" type="image/x-icon">
 <script>
 function calculateSettingAsThemeString({ localStorageTheme, systemSettingDark }) {
   if (localStorageTheme !== null) {
@@ -163,7 +164,7 @@ button {
 </head>
 <body>
 <center>
-<h1><table><tr><td>PS! Game Corner Shiny Pokedex</td></tr></table></h1>
+<h1><table><tr><td><a style="text-decoration:none; color: #8ebccd" href="https://rentry.co/star-cave">star cave</a> 💫 <span style="color: #8ebccd">shiny pokedex</span></td></tr></table></h1>
 <h3><span style="letter-spacing:5px;"><table><tr>
 <td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-pokedex/blob/main/pokedex">POKEDEX</a></td>
 <td style="width: 50px"></td><td>MILESTONES</td>
