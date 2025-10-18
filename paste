@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>PS! Game Corner Shiny Pokedex - Paste</title>
+<title>star cave | shiny pokedex | paste</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
+<link rel="icon" href="https://www.serebii.net/itemdex/sprites/starsweet.png" type="image/x-icon">
 <style>
 body {
   font-family: "Quicksand", sans-serif;
@@ -17,7 +18,7 @@ body {
 </head>
 <body style="background-color: black; color: white">
 <center>
-<h1><table><tr><td>PS! Game Corner Shiny Pokedex</td></tr></table></h1>
+<h1><table><tr><td><a style="text-decoration:none; color: #8ebccd" href="https://rentry.co/star-cave">star cave</a> 💫 <span style="color: #8ebccd">shiny pokedex</span></td></tr></table></h1>
 <h3><span style="letter-spacing:5px;"><table><tr>
 <td>PASTE</td>
 </tr></table></span></h3>
