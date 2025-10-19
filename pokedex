@@ -132,6 +132,7 @@ button {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  margin-top: -5px;
   margin-bottom: 24px;
   position: relative;      
 }
